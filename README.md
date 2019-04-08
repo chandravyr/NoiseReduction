@@ -1,6 +1,6 @@
 # About
 
-A script of image noise reduction using the ksvd algorithm written in python.
+A script of image noise reduction using the K-SVD algorithm.
 
 # Usage
 
